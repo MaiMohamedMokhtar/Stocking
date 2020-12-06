@@ -1,0 +1,7 @@
+ .form-control{
+border:none;
+border-radius: 0px;
+}
+.searchInput{
+    border-bottom: 1px solid black;
+}
